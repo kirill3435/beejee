@@ -9,6 +9,4 @@ function debug($str) {
     echo '</pre>';
     exit;
 }
-
-//db pass vS2qyM4%
 ?>
